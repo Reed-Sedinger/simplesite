@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(assets/img/Background-bg.jpeg) top center;
+  background: url(Reed-Sedinger/simplesite/assets/img/Background-bg.jpeg) top center;
   background-size: cover;
   position: relative;
 }
